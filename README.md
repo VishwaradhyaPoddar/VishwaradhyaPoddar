@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishwaradhyaPoddar.
-- 👀 I’m interested in gathering insight from data and Visualization.
+- 👀 I’m interested in gathering insight from data and Create acttractive dashborad.
 - 🌱 I’m currently learning machine learning models to enhance predictive analytics, Statistical Analysis.
 - 💞️ I’m looking to collaborate on Tableau and Microsoft Power BI Projects.
 - 🌟 Skills: Python, SQL, Data Visualization, Pandas, Tableau.
