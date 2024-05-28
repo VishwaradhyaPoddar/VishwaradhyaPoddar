@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vishwaradhya Poddar</h1>
 <h3 align="center">I’m interested in gathering insight from data and Create acttractive dashborad.</h3>
-<img align="right" alt="Coding" width="400" src="(https://onlineresize.club/2021-club.html)">
+<img align="right" alt="Coding" width="400" src="()">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaradhyapoddar&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaradhyapoddar" /> </p>
 
